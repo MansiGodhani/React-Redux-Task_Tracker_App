@@ -1,6 +1,6 @@
 # React-Redux Task Tracker App
 In this app user have login and logout functionality and also add or remove their tasks.
-<h3>Implements</h3>
+<h3>Implements are :-</h3>
 <ul>
   <li>Implement Redux</li>
   <li>Implement Login functionality</li>
